@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastacloud.Hadoop.SampleDataGenerator", "Elastacloud.Hadoop.SampleDataGenerator\Elastacloud.Hadoop.SampleDataGenerator.csproj", "{74DDDFAE-E095-4F59-91B7-E96A99D16E69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastacloud.Hadoop.SampleDataGenerationLib", "Elastacloud.Hadoop.SampleDataGenerationLib\Elastacloud.Hadoop.SampleDataGenerationLib.csproj", "{16736866-2502-41E7-AC10-A4A926AE6694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastacloud.Hadoop.SampleDataGenerationLib.Tests", "Elastacloud.Hadoop.SampleDataGenerationLib.Tests\Elastacloud.Hadoop.SampleDataGenerationLib.Tests.csproj", "{6624489D-8D54-40BD-8DB7-166B018EE631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastacloud.Hadoop.SampleDataMapReduceJob", "Elastacloud.Hadoop.SampleDataMapReduceJob\Elastacloud.Hadoop.SampleDataMapReduceJob.csproj", "{36BF1B00-C270-4B42-97ED-BA79DA20B939}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pastacloud.tfspreview.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Elastacloud.Hadoop.SampleDataGenerationLib.Tests\\Elastacloud.Hadoop.SampleDataGenerationLib.Tests.csproj
+		SccProjectName1 = Elastacloud.Hadoop.SampleDataGenerationLib.Tests
+		SccLocalPath1 = Elastacloud.Hadoop.SampleDataGenerationLib.Tests
+		SccProjectUniqueName2 = Elastacloud.Hadoop.SampleDataGenerationLib\\Elastacloud.Hadoop.SampleDataGenerationLib.csproj
+		SccProjectName2 = Elastacloud.Hadoop.SampleDataGenerationLib
+		SccLocalPath2 = Elastacloud.Hadoop.SampleDataGenerationLib
+		SccProjectUniqueName3 = Elastacloud.Hadoop.SampleDataGenerator\\Elastacloud.Hadoop.SampleDataGenerator.csproj
+		SccProjectName3 = Elastacloud.Hadoop.SampleDataGenerator
+		SccLocalPath3 = Elastacloud.Hadoop.SampleDataGenerator
+		SccProjectUniqueName4 = Elastacloud.Hadoop.SampleDataMapReduceJob\\Elastacloud.Hadoop.SampleDataMapReduceJob.csproj
+		SccProjectName4 = Elastacloud.Hadoop.SampleDataMapReduceJob
+		SccLocalPath4 = Elastacloud.Hadoop.SampleDataMapReduceJob
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74DDDFAE-E095-4F59-91B7-E96A99D16E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DDDFAE-E095-4F59-91B7-E96A99D16E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DDDFAE-E095-4F59-91B7-E96A99D16E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DDDFAE-E095-4F59-91B7-E96A99D16E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16736866-2502-41E7-AC10-A4A926AE6694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16736866-2502-41E7-AC10-A4A926AE6694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16736866-2502-41E7-AC10-A4A926AE6694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16736866-2502-41E7-AC10-A4A926AE6694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6624489D-8D54-40BD-8DB7-166B018EE631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6624489D-8D54-40BD-8DB7-166B018EE631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6624489D-8D54-40BD-8DB7-166B018EE631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6624489D-8D54-40BD-8DB7-166B018EE631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36BF1B00-C270-4B42-97ED-BA79DA20B939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BF1B00-C270-4B42-97ED-BA79DA20B939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BF1B00-C270-4B42-97ED-BA79DA20B939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BF1B00-C270-4B42-97ED-BA79DA20B939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
